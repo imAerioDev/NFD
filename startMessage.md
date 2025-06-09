@@ -9,16 +9,16 @@
 
  - 命令（仅对机器人生效，不回复原发送者）：
 
-    •  /block：拉黑用户
+    •  /block： 拉黑用户
 
-    •  /unblock：解除拉黑
+    •  /unblock： 解除拉黑
 
-    •  /checkblock：查看拉黑状态
+    •  /checkblock： 查看拉黑状态
 
 注意：
-唯一账户：@imAerio
-唯一机器人：@imAerioBot
-唯一网站：imAerio.com
+唯一账户： @imAerio
+唯一机器人： @imAerioBot
+唯一网站： imAerio.com
 
 其他均为假，谨防诈骗。
 
