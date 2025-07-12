@@ -1,10 +1,10 @@
-🤖 ✨ 你好！我是 imAerioBot  
-—— @imAerio 的专属消息中转站 📡  
+🤖 ✨ Hello! I'm imAerioBot
+—— @imAerio's Exclusive Message Relay Station 📡
 
-⚡ 即发即达 · 无需指令  
-✅ 你的消息 → 🔄 实时直达 @imAerio  
-✅ TA的回复 → 📨 自动返回对话框  
+⚡ Instant Delivery · No Commands Needed
+✅ Your Message → 🔄 Real-Time Delivery to @imAerio
+✅ Their Reply → 📨 Automatically Returned to the Chat
 
-💬 现在试试直接输入吧！  
+💬 Try typing now!
 
-🔒 全程加密 · 🤖 机器人不存储内容  
+🔒 Fully Encrypted · 🤖 Bot Does Not Store Content
